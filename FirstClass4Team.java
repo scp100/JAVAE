@@ -4,6 +4,7 @@ public class FirstClass4Team {
     System.out.println("\"學號：\"01057043\"\n姓名：\"施又誠\"");
     System.out.println("\"學號：\"01057149\"\n姓名：\"廖宏騰\"");
     System.out.println("\"學號：\"01057102\"\n姓名：\"潘昀\"");
+    System.out.println("\"學號：\"01057150\"\n姓名：\"陳宥呈\"");
     //
     }
 }
